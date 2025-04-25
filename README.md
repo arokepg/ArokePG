@@ -1,16 +1,16 @@
-### Hi there 👋
+# ✨ Luong Nhat Minh (Aroke) ✨
 
-<!--
-**ArokePG/ArokePG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate and curious individual exploring the world of <ins>**DevOps**</ins> and <ins>**Web Development**</ins>.
 
-Here are some ideas to get you started:
+**Profession:** 👨‍💻 Aspiring DevOps Engineer | 🌐 Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Native Language:** 🇻🇳 Tiếng Việt
+
+**Skills:**
+
+* **DevOps:** ⚙️ Experienced in principles and practices.
+* **Web Development:** 💻 ReactJS, NextJS, NodeJS
+* **Linux:** 🐧 Comfortable working in Linux environments.
+* **Shell Scripting:** ✍️ Proficient in automating tasks using shell scripts.
+
+**LinkedIn:** 🔗 https://www.linkedin.com/in/arokepg/
