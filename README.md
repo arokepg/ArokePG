@@ -1,6 +1,6 @@
 # 👋 Luong Nhat Minh
 
-🎓 University student from **Vietnam** passionate about tech. I’m working toward becoming a **DataOps Engineer**, building efficient and scalable data workflows.
+🎓 University student from **Vietnam** passionate about tech. I’m working toward becoming a **DataOps Engineer**.
 
 🗣 Native in **Vietnamese**, fluent in **English**.
 
