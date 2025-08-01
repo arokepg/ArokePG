@@ -2,7 +2,7 @@
 
 A passionate and curious individual exploring the world of <ins>**DevOps**</ins> and <ins>**Web Development**</ins>.
 
-**Profession:** 👨‍💻 Aspiring DevOps Engineer | 🌐 Web Developer
+**Profession:** 👨‍💻 DataOps Engineer Wannabe | 🌐 Web Developer
 
 **Native Language:** 🇻🇳 Tiếng Việt
 
