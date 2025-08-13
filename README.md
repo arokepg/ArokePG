@@ -33,7 +33,7 @@
 
 ## 🌐 Let's Connect
 
-**GitHub:** arokepg  |  **Discord:** `ArokePG`  
+**GitHub:** `arokepg`  |  **Discord:** `ArokePG`  
 📧 **Email:** luongnhatminh2101@gmail.com
 
 ---
