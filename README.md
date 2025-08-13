@@ -33,8 +33,8 @@
 
 ## 🌐 Let's Connect
 
-[GitHub:] (https://github.com/arokepg) ・ 
-[Discord:] `ArokePG`  
+**GitHub:** (https://github.com/arokepg)
+**Discord:** `ArokePG`  
 📧 **Email:** luongnhatminh2101@gmail.com
 
 ---
