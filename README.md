@@ -19,16 +19,15 @@
 
 ## 🛠 Skills & Toolkit
 
-╔══════════════════════════════════════════════╗
-║ 💻 Languages → C | C++ | Python | JavaScript | TypeScript
-║ 🎨 Frontend → GTK | React.js | Next.js
-║ ⚙ Backend → Node.js
-║ 🧠 AI / CV → TensorFlow | OpenCV
-║ ☁ Cloud & DevOps → Google Cloud Platform | Bash | Docker | GitHub Actions
-║ 🗄 Databases → PostgreSQL | MongoDB
-║ 📦 DataOps Tools → Apache Airflow | dbt (learning)
-║ 🔧 Tools → Linux | Git | Figma
-╚══════════════════════════════════════════════╝
+🖥 **Languages** → C | C++ | Python | JavaScript | TypeScript  
+🎨 **Frontend** → GTK | React.js | Next.js  
+⚙ **Backend** → Node.js  
+🧠 **AI / CV** → TensorFlow | OpenCV  
+☁ **Cloud** → Google Cloud Platform  
+🔧 **DevOps** → Bash | Docker | GitHub Actions  
+🗄 **Databases** → PostgreSQL | MongoDB  
+📦 **DataOps Tools** → Apache Airflow | dbt *(learning)*  
+🛠 **Other Tools** → Linux | Git | Figma
 
 ---
 
