@@ -1,5 +1,3 @@
-<div align="center">
-
 ╔════════════════════════════════════════╗  
    👋  𝐋𝐮𝐨𝐧𝐠 𝐍𝐡𝐚𝐭 𝐌𝐢𝐧𝐡  
    🎯 Aspiring DataOps Software Engineer | Vietnam  
@@ -49,5 +47,3 @@
 ---
 
 > 🧠 *"Automate the boring, accelerate the meaningful."*
-
-</div>
