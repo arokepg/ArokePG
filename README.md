@@ -1,47 +1,34 @@
-╔════════════════════════════════════════╗  
-   👋  𝐋𝐮𝐨𝐧𝐠 𝐍𝐡𝐚𝐭 𝐌𝐢𝐧𝐡  
-   🎯 Aspiring DataOps Software Engineer | Vietnam  
-╚════════════════════════════════════════╝  
+### 👋 Luong Nhat Minh
 
-🎓 University student passionate about **data workflows, automation, and scalable systems**.  
-🛠 On a journey to become a **DataOps Software Engineer** — building bridges between **data engineering** and **software development**.  
-🗣 Native in Vietnamese • Fluent in English  
+**Aspiring DataOps Software Engineer | Vietnam**
+
+I'm a university student passionate about building efficient **data workflows, automation, and scalable systems**. My goal is to become a **DataOps Software Engineer**, bridging data engineering with software development to create automated, reliable data pipelines.
 
 ---
 
-## 💡 Quick Facts
-⚡ Fascinated by **automating data pipelines** and **infrastructure-as-code**  
-🛠 Enjoy optimizing workflows for **speed and reliability**  
-🌏 Advocate for clean, maintainable, and collaborative code  
-☕ Coffee + curiosity = productivity  
+### 🛠️ Core Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, C, C++, JavaScript, TypeScript |
+| **Cloud** | Google Cloud Platform (GCP) |
+| **BaaS** | Firebase |
+| **Databases** | PostgreSQL, MongoDB |
+| **Frontend** | GTK, React.js, Next.js |
+| **Backend** | Node.js |
+| **AI / CV** | TensorFlow, OpenCV |
+| **Other** | Linux, Git, Figma |
+
+| **DevOps** | Bash, Docker, GitHub Actions |
+| **DataOps** | Apache Airflow, dbt (learning) |
 
 ---
 
-## 🛠 Skills & Toolkit
+### 🌐 Get in Touch
 
-🖥 **Languages** → C | C++ | Python | JavaScript | TypeScript  
-🎨 **Frontend** → GTK | React.js | Next.js  
-⚙ **Backend** → Node.js  
-🧠 **AI / CV** → TensorFlow | OpenCV  
-☁ **Cloud** → Google Cloud Platform  
-🔧 **DevOps** → Bash | Docker | GitHub Actions  
-🗄 **Databases** → PostgreSQL | MongoDB  
-📦 **DataOps Tools** → Apache Airflow | dbt *(learning)*  
-🛠 **Other Tools** → Linux | Git | Figma
-
----
-
-## 📊 GitHub Activity
-🟢 **120+** commits this year  
-📦 **10+** public repositories  
-💬 Active in **5+** open source projects  
-
----
-
-## 🌐 Let's Connect
-📂 **GitHub**: [arokepg](https://github.com/arokepg)  
-💬 **Discord**: ArokePG  
-📧 **Email**: luongnhatminh2101@gmail.com  
+- **GitHub:** [arokepg](https://github.com/arokepg)
+- **Email:** luongnhatminh2101@gmail.com
+- **Discord:** ArokePG
 
 ---
 
