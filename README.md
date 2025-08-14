@@ -47,6 +47,7 @@ I'm a university student passionate about building efficient **data workflows, a
 - **GitHub:** [arokepg](https://github.com/arokepg)
 - **Email:** luongnhatminh2101@gmail.com
 - **Discord:** ArokePG
+- **Linkedin:** https://www.linkedin.com/in/arokepg
 
 ---
 
