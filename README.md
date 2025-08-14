@@ -8,19 +8,42 @@ I'm a university student passionate about building efficient **data workflows, a
 
 ### 🛠️ Core Skills
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, C, C++, JavaScript, TypeScript |
-| **Cloud** | Google Cloud Platform (GCP) |
-| **BaaS** | Firebase |
-| **Databases** | PostgreSQL, MongoDB |
-| **Frontend** | GTK, React.js, Next.js |
-| **Backend** | Node.js |
-| **AI / CV** | TensorFlow, OpenCV |
-| **Other** | Linux, Git, Figma |
-
-| **DevOps** | Bash, Docker, GitHub Actions |
-| **DataOps** | Apache Airflow, dbt (learning) |
+- **Languages:**
+  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  - <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+- **DevOps:**
+  - <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  - <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  - <img src="https://img.shields.io/badge/Bash-1F425F?style=for-the-badge&logo=gnu-bash&logoColor=white">
+- **Cloud:**
+  - <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+- **DataOps:**
+  - <img src="https://img.shields.io/badge/Apache_Airflow-007CEE?style=for-the-badge&logo=apache-airflow&logoColor=white">
+  - <img src="https://img.shields.io/badge/dbt-FFC900?style=for-the-badge&logo=dbt&logoColor=black">
+- **BaaS:**
+  - <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+- **Databases:**
+  - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  - <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+- **Frontend:**
+  - <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  - <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  - GTK
+  - <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+- **Backend:**
+  - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+- **AI / CV:**
+  - <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  - OpenCV
+- **Other:**
+  - <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  - <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  - Figma
+  - <img src="https://img.shields.io/badge/Neovim-%235cddcf.svg?style=for-the-badge&logo=neovim&logoColor=black">
+  - <img src="https://img.shields.io/badge/Vim-%2311AB73.svg?style=for-the-badge&logo=vim&logoColor=white">
 
 ---
 
@@ -32,4 +55,4 @@ I'm a university student passionate about building efficient **data workflows, a
 
 ---
 
-> 🧠 *"Automate the boring, accelerate the meaningful."*
+> 🧠 *"i use arch btw"*
