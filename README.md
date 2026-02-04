@@ -4,8 +4,6 @@
 
 I'm a university student. My goal is to become a **Software Engineer**.
 
-www.luongnhatminh.id.vn
-
 ---
 
 ### 🌐 Get in Touch
@@ -16,4 +14,5 @@ www.luongnhatminh.id.vn
 
 ---
 
+- **Personal Website:** luongnhatminh.id.vn
 > 🧠 *"i use arch btw"*
