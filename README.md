@@ -14,5 +14,5 @@ I'm a university student. My goal is to become a **Software Engineer**.
 
 ---
 
-- **Personal Website:** luongnhatminh.id.vn
+- **Personal Website:** www.luongnhatminh.id.vn
 > 🧠 *"i use arch btw"*
