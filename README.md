@@ -14,5 +14,5 @@ I'm a university student. My goal is to become a **Software Engineer**.
 
 ---
 
-- **Personal Website:** <a href="https://www.luongnhatminh.id.vn">Visit</a>
+- **Personal Website:** <a target="_blank" rel="noopener noreferrer" href="https://www.luongnhatminh.id.vn">Visit</a>
 > 🧠 *"i use arch btw"*
