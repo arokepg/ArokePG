@@ -1,8 +1,6 @@
 # 👋 Luong Nhat Minh (aka Lơ aka Aroke)
 
-**Aspiring Software Engineer**
-
-I'm a university student. My goal is to become a **Software Engineer**.
+I'm a university student. My goal is to become a **R&D & DevOps Engineer**.
 
 ---
 
