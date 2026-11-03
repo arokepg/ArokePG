@@ -1,6 +1,6 @@
 # 👋 Luong Nhat Minh (aka Lơ aka Aroke)
 
-I'm a university student. My goal is to become a **R&D & DevOps Engineer**.
+I'm a university student. My goal is to become a **DevOps & Systems Engineer and Quantum Researcher**.
 
 ---
 
